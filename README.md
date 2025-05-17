@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm <strong>Ahmed Darwish</strong></h1>
+<h1 align="center">
+  <img src="https://your-image-link.gif" alt="Ahmed Darwish animated name" />
+</h1>
 <h3 align="center">Software Engineer | Competitive Programmer</h3>
 
 <p align="center">
@@ -15,9 +17,9 @@
 
 ## 🧠 About Me
 
-- 👨‍💻 Software Engineer passionate about **problem solving** and **competitive programming**
-- 🚀 Skilled in **C++, Node.js, MongoDB, Flutter**, and more
-- 🌱 Always learning and exploring new technologies
+- 👨‍💻 I'm a software engineer who loves **problem solving** & **competitive programming**
+- 🚀 Skilled in **C++, Node.js, MongoDB, Flutter, Python**
+- 🧠 Always learning and building cool things
 
 ---
 
@@ -25,13 +27,13 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ahmed-s-darwish-a64a432b0/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://codeforces.com/profile/ahmedsaeeddarwish" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
   </a>
   <a href="https://leetcode.com/u/ahmed_darwish/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
 
@@ -55,7 +57,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedsaeed1234t&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
