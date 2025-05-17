@@ -47,7 +47,7 @@
 | <img src="images/flutter-ui-app.png" width="100" /> | 📱 **Flutter UI App** <br> Mobile app with modern UI components | Flutter, Dart | [View Repo](https://github.com/AhmedSaeed1234T/Flutter-Tasks) |
 | <img src="images/competitive-templates.png" width="100" /> | 💡 **Competitive Templates** <br> C++ STL + fast input/output templates for contests | C++ | [View Repo](https://github.com/AhmedSaeed1234T/Chit-Assuit_ProblemSolving) |
 
-<p align="center">
+<p align="left">
 ## 📝 Student & Doctor API
 
 ![Repo Views](https://komarev.com/ghpvc/?username=ahmedsaeed1234t&label=Profile%20views&color=0e75b6&style=flat)
@@ -61,6 +61,7 @@ Tech Stack:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 </p>
+<br>
 ## 🛠️ Languages and Tools
 
 <p align="left">
