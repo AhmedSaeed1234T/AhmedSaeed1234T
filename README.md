@@ -43,9 +43,9 @@
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| <img src="images/student-doctor-api.png" width="100" /> | 📝 **Student & Doctor API** <br> RESTful API to manage students and doctors with CRUD operations | Node.js, Express, MongoDB | [View Repo](https://github.com/ahmedsaeed1234t/student-doctor-api) |
-| <img src="images/flutter-ui-app.png" width="100" /> | 📱 **Flutter UI App** <br> Mobile app with modern UI components | Flutter, Dart | [View Repo](https://github.com/ahmedsaeed1234t/flutter-ui-app) |
-| <img src="images/competitive-templates.png" width="100" /> | 💡 **Competitive Templates** <br> C++ STL + fast input/output templates for contests | C++ | [View Repo](https://github.com/ahmedsaeed1234t/competitive-templates) |
+| <img src="images/student-doctor-api.png" width="100" /> | 📝 **Student & Doctor API** <br> RESTful API to manage students and doctors with CRUD operations | Node.js, Express, MongoDB | [View Repo](https://github.com/AhmedSaeed1234T/Task-e-business) |
+| <img src="images/flutter-ui-app.png" width="100" /> | 📱 **Flutter UI App** <br> Mobile app with modern UI components | Flutter, Dart | [View Repo](https://github.com/AhmedSaeed1234T/Flutter-Tasks) |
+| <img src="images/competitive-templates.png" width="100" /> | 💡 **Competitive Templates** <br> C++ STL + fast input/output templates for contests | C++ | [View Repo](https://github.com/AhmedSaeed1234T/Chit-Assuit_ProblemSolving) |
 
 ## 🛠️ Languages and Tools
 
