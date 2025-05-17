@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm <strong>Ahmed Darwish</strong></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Darwish;Software+Engineer;Competitive+Programmer" alt="Typing SVG" />
+</h1>
+
 <h3 align="center">Software Engineer | Competitive Programmer</h3>
 
 <p align="center">
@@ -15,7 +18,7 @@
 
 ## 🧠 About Me
 
-- 👨‍💻 Software Engineer passionate about **problem solving** and **competitive programming**
+- 👨‍💼 Software Engineer passionate about **problem solving** and **competitive programming**
 - 🚀 Skilled in **C++, Node.js, MongoDB, Flutter**, and more
 - 🌱 Always learning and exploring new technologies
 
@@ -55,7 +58,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedsaeed1234t&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
