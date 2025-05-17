@@ -1,17 +1,5 @@
-<h1 align="center">Hi <span id="wave">👋</span>, I'm <span id="name">Ahmed Darwish</span></h1>
+<h1 align="center">Hi 👋, I'm <strong>Ahmed Darwish</strong></h1>
 <h3 align="center">Software Engineer | Competitive Programmer</h3>
-
-<style>
-  #name {
-    animation: blink 1s infinite;
-  }
-
-  @keyframes blink {
-    0% { opacity: 1; }
-    50% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-</style>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmedsaeed1234t&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -25,15 +13,15 @@
 
 ---
 
-## 🧡 About Me
+## 🧠 About Me
 
-- 👩‍💼 I’m a Software Engineer with a passion for **problem solving** and **competitive programming**.
-- 🤖 I love working with **C++, Node.js, MongoDB**, and learning new technologies.
-- ✨ I'm constantly looking to grow, contribute to open-source, and work on impactful projects.
+- 👨‍💻 Software Engineer passionate about **problem solving** and **competitive programming**
+- 🚀 Skilled in **C++, Node.js, MongoDB, Flutter**, and more
+- 🌱 Always learning and exploring new technologies
 
 ---
 
-## 📢 Connect with Me
+## 🌐 Connect with Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ahmed-s-darwish-a64a432b0/" target="blank">
@@ -49,7 +37,7 @@
 
 ---
 
-## 🏃‍♂️ Languages and Tools
+## 🛠️ Languages and Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
@@ -67,7 +55,7 @@
 
 ---
 
-## 🌟 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedsaeed1234t&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
