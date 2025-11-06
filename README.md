@@ -1,95 +1,98 @@
+<!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Darwish;Software+Engineer;Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ahmed+Darwish;Software+Engineer;Flutter+%26+Node.js+Developer;Competitive+Programmer" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Software Engineer | Competitive Programmer</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedsaeed1234t&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmedsaeed1234t&label=Profile%20views&color=00BFFF&style=flat" alt="Profile views" />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ahmedsaeed1234t&theme=radical&margin-w=15&margin-h=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=ahmedsaeed1234t&theme=radical&margin-w=10&margin-h=10&no-frame=true&no-bg=true" width="700"/>
   </a>
 </p>
 
 ---
 
 ## 🧠 About Me
+🎯 **Software Engineer** passionate about building real-world apps and solving complex problems.  
+💡 Skilled in **C++**, **Node.js**, **MongoDB**, **Flutter**, and modern web/mobile frameworks.  
+🚀 Always learning & exploring new technologies in **AI** and **Full-Stack Development**.  
+🏆 Competitive Programmer at Codeforces and LeetCode.  
 
-- 👨‍💼 Software Engineer passionate about **problem solving** and **competitive programming**
-- 🚀 Skilled in **C++, Node.js, MongoDB, Flutter**, and more
-- 🌱 Always learning and exploring new technologies
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,cpp,python,java,nodejs,express,mongodb,git,github,html,css,javascript,react,firebase,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| 🧩 Project | Description | Tech Stack | Link |
+|------------|--------------|-------------|------|
+| 🩺 **Student & Doctor API** | RESTful API managing students and doctors with CRUD operations | Node.js, Express, MongoDB | [🔗 View Repo](https://github.com/AhmedSaeed1234T/Task-e-business) |
+| 📱 **Flutter UI Kit** | Modern and responsive mobile UI components | Flutter, Dart | [🔗 View Repo](https://github.com/AhmedSaeed1234T/Flutter-Tasks) |
+| ⚡ **Competitive Programming Templates** | C++ templates for contests & problem solving | C++ | [🔗 View Repo](https://github.com/AhmedSaeed1234T/Chit-Assuit_ProblemSolving) |
+
+---
+
+## 🧩 Detailed Project Example
+
+### 🩺 Student & Doctor API
+RESTful API to manage students and doctors with CRUD operations.  
+
+**Tech Stack:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+---
+
+## 💻 Languages & Tools
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmedsaeed1234t&theme=tokyonight&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedsaeed1234t&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedsaeed1234t&layout=compact&theme=tokyonight&hide_border=true" width="400" />
+</p>
 
 ---
 
 ## 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ahmed-s-darwish-a64a432b0/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/ahmedsaeeddarwish" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/u/ahmed_darwish/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
-
----
-## 🚀 My Projects
-
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| <img src="images/student-doctor-api.png" width="100" /> | 📝 **Student & Doctor API** <br> RESTful API to manage students and doctors with CRUD operations | Node.js, Express, MongoDB | [View Repo](https://github.com/AhmedSaeed1234T/Task-e-business) |
-| <img src="images/flutter-ui-app.png" width="100" /> | 📱 **Flutter UI App** <br> Mobile app with modern UI components | Flutter, Dart | [View Repo](https://github.com/AhmedSaeed1234T/Flutter-Tasks) |
-| <img src="images/competitive-templates.png" width="100" /> | 💡 **Competitive Templates** <br> C++ STL + fast input/output templates for contests | C++ | [View Repo](https://github.com/AhmedSaeed1234T/Chit-Assuit_ProblemSolving) |
-
-<p align="left">
-## 📝 Student & Doctor API
-
-![Repo Views](https://komarev.com/ghpvc/?username=ahmedsaeed1234t&label=Profile%20views&color=0e75b6&style=flat)
-![GitHub Commit Stats](https://github-readme-stats.vercel.app/api?username=ahmedsaeed1234t&show_icons=true&count_private=true&hide=prs&custom_title=Commit%20Stats&theme=default)
-
-RESTful API to manage students and doctors with CRUD operations.
-
-Tech Stack:  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-</p>
-<br>
-## 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-s-darwish-a64a432b0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/ahmedsaeeddarwish"><img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/ahmed_darwish/"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="mailto:ahmed@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedsaeed1234t&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedsaeed1234t&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedsaeed1234t" alt="GitHub Streak" />
-</p>
+<p align="center">⭐ If you like my work, consider giving it a star!</p>
