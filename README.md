@@ -12,7 +12,7 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 About Me  
 🎯 **Software Engineer** passionate about building real-world apps and solving complex problems.  
 💡 Skilled in **C++**, **Node.js**, **MongoDB**, **Flutter**, and modern web/mobile frameworks.  
 🚀 Always learning & exploring new technologies in **AI** and **Full-Stack Development**.  
@@ -31,22 +31,16 @@
 ## 🚀 Featured Projects
 
 | 🧩 Project | Description | Tech Stack | Link |
-|------------|--------------|-------------|------|
-| 🩺 **Student & Doctor API** | RESTful API managing students and doctors with CRUD operations | Node.js, Express, MongoDB | [🔗 View Repo](https://github.com/AhmedSaeed1234T/Task-e-business) |
-| 📱 **Flutter UI Kit** | Modern and responsive mobile UI components | Flutter, Dart | [🔗 View Repo](https://github.com/AhmedSaeed1234T/Flutter-Tasks) |
-| ⚡ **Competitive Programming Templates** | C++ templates for contests & problem solving | C++ | [🔗 View Repo](https://github.com/AhmedSaeed1234T/Chit-Assuit_ProblemSolving) |
-
----
-
-## 🧩 Detailed Project Example
-
-### 🩺 Student & Doctor API
-RESTful API to manage students and doctors with CRUD operations.  
-
-**Tech Stack:**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+|---|---|---|---|
+| **To-Do App API** | RESTful API to manage To-Do tasks (CRUD) | Node.js, Express, MongoDB | [🔗 Repo](https://github.com/AhmedSaeed1234T/To-Do-App) |
+| **E-Commerce API** | Backend system for product management & e-commerce logic | Node.js, Express, MongoDB | [🔗 Repo](https://github.com/AhmedSaeed1234T/E-Commerce-) |
+| **Auth System** | User authentication using JWT & bcrypt | Node.js, Express, MongoDB | [🔗 Repo](https://github.com/AhmedSaeed1234T/Auth-System) |
+| **Portfolio Website** | Personal responsive portfolio website | HTML, CSS, JavaScript | [🔗 Repo](https://github.com/AhmedSaeed1234T/Portofilo) |
+| **First Project Backend** | Practice backend project with routing & APIs | Node.js, Express | [🔗 Repo](https://github.com/AhmedSaeed1234T/First-Project-Backend-Node-js) |
+| **Dar Alazhary Website** | Full educational website frontend | HTML, CSS, JS | [🔗 Repo](https://github.com/AhmedSaeed1234T/dar_Alazhary_website) |
+| **Maak App (Flutter)** | Mobile app with modern UI & navigation | Flutter, Dart | [🔗 Repo](https://github.com/AhmedSaeed1234T/Maak-App) |
+| **Flutter UI Kit** | Full UI components for mobile apps | Flutter, Dart | [🔗 Repo](https://github.com/AhmedSaeed1234T/Flutter-Tasks) |
+| **Competitive Programming Templates** | CP templates & problem solving solutions | C++ | [🔗 Repo](https://github.com/AhmedSaeed1234T/Chit-Assuit_ProblemSolving) |
 
 ---
 
@@ -86,7 +80,7 @@ RESTful API to manage students and doctors with CRUD operations.
   <a href="https://www.linkedin.com/in/ahmed-s-darwish-a64a432b0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/ahmedsaeeddarwish"><img src="https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
   <a href="https://leetcode.com/u/ahmed_darwish/"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="mailto:ahmed@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ahmedsaeed1234t@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
